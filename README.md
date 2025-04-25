@@ -22,7 +22,7 @@
 
 <p align="center" width="300">
    <img align="center" width="200" src="" />
-   <h3 align="center">¡soy JamSarmientoH9 un gusto 👋! 👨🏻‍💻</h3>
+   <h3 align="center">¡soy JamSarmiento un gusto 👋! 👨🏻‍💻</h3>
 </p>
 
 | Tendencias de la actividad de los repositorios | Productividad colaborativa - Últimos 28 días |
