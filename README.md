@@ -39,7 +39,7 @@ Este README se actualizará con mi **portafolio web** y mis **proyectos destacad
 
 ¡Estoy abierto a colaboraciones y proyectos interesantes!  
 
-✉️ Correo: [Jamkeatesissmith12@gmail.com]  
+✉️ Correo: Jamkeatesissmith12@gmail.com
 🔗 LinkedIn: [Jamkeatesis Shmith](https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/)
 
 ---
