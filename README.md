@@ -38,10 +38,13 @@ Este README se actualizará con mi **portafolio web** y mis **proyectos destacad
 ## 📫 Contáctame
 
 ¡Estoy abierto a colaboraciones y proyectos interesantes!  
-Puedes encontrarme aquí en GitHub o contactarme directamente.
+
+✉️ Correo: [Jamkeatesissmith12@gmail.com]  
+🔗 LinkedIn: [Jamkeatesis Shmith](https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/)
 
 ---
 
 <p align="center">
   <em>"Innovar, crear y aprender es la clave para avanzar en tecnología."</em>
 </p>
+
