@@ -51,11 +51,6 @@ Conéctate conmigo en mis otras plataformas:
 
 ¡Estoy abierto a colaboraciones y proyectos interesantes!  
 
-
-✉️ Correo: Jamkeatesissmith12@gmail.com  
-
----
-
 <p align="center">
   <em>"Innovar, crear y aprender es la clave para avanzar en tecnología."</em>
 </p>
