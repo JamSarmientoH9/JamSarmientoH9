@@ -27,7 +27,7 @@ Programo principalmente en:
 - 🌐 Backend con FastAPI y MATLAB para simulaciones técnicas
 - 🧠 Herramientas de IA generativa (OpenAI, Gemini, etc.)
 - ⚙️ Automatización
-- 🐍 Python & Java para desarrollo eficiente
+- 🐍 Python & Java con spring/hibernate para desarrollo eficiente
 
 ---
 
