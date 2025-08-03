@@ -26,7 +26,7 @@ Programo principalmente en:
 - 📊 Análisis de datos con Python, R, Pandas, NumPy, Google Sheets
 - 🌐 Backend con FastAPI y MATLAB para simulaciones técnicas
 - 🧠 Herramientas de IA generativa (OpenAI, Gemini, etc.)
-- ⚙️ Automatización de flujos con n8n
+- ⚙️ Automatización
 - 🐍 Python & Java para desarrollo eficiente
 
 ---
@@ -45,9 +45,12 @@ Conéctate conmigo en mis otras plataformas:
 
 ---
 
-## 📫 Contáctame
+## 📫 Unete a mi comunidad
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/kdUDTkYTAv)
 
 ¡Estoy abierto a colaboraciones y proyectos interesantes!  
+
 
 ✉️ Correo: Jamkeatesissmith12@gmail.com  
 
