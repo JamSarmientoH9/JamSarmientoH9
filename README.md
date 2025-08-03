@@ -11,8 +11,10 @@ Programo principalmente en:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50" style="margin-right: 10px;" />
 </p>
-
 
 ---
 
@@ -21,7 +23,8 @@ Programo principalmente en:
 - 🤖 Inteligencia Artificial y Machine Learning
 - ⚙️ Control automático y sistemas embebidos
 - 🛠️ Automatización industrial y robótica
-- 📊 Análisis de datos con Python, R, Google Sheets
+- 📊 Análisis de datos con Python, R, Pandas, NumPy, Google Sheets
+- 🌐 Backend con FastAPI y MATLAB para simulaciones técnicas
 - 🧠 Herramientas de IA generativa (OpenAI, Gemini, etc.)
 - ⚙️ Automatización de flujos con n8n
 - 🐍 Python & Java para desarrollo eficiente
@@ -34,9 +37,11 @@ Soy una persona apasionada por la integración de hardware y software para crear
 
 ---
 
-## 📁 Próximamente
+## 🌐 Redes Sociales
 
-Este README se actualizará con mi **portafolio web** y mis **proyectos destacados**. ¡Estén atentos!
+Conéctate conmigo en mis otras plataformas:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@JamSwiftDev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Jamkeatesissmith12@gmail.com)
 
 ---
 
@@ -44,12 +49,10 @@ Este README se actualizará con mi **portafolio web** y mis **proyectos destacad
 
 ¡Estoy abierto a colaboraciones y proyectos interesantes!  
 
-✉️ Correo: Jamkeatesissmith12@gmail.com
-🔗 LinkedIn: [Jamkeatesis Shmith](https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/)
+✉️ Correo: Jamkeatesissmith12@gmail.com  
 
 ---
 
 <p align="center">
   <em>"Innovar, crear y aprender es la clave para avanzar en tecnología."</em>
 </p>
-
