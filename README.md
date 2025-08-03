@@ -9,8 +9,10 @@ Programo principalmente en:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin-right: 10px;" />
 </p>
+
 
 ---
 
@@ -19,7 +21,10 @@ Programo principalmente en:
 - 🤖 Inteligencia Artificial y Machine Learning
 - ⚙️ Control automático y sistemas embebidos
 - 🛠️ Automatización industrial y robótica
-- 🐍 Python & C/C++ para desarrollo eficiente
+- 📊 Análisis de datos con Python, R, Google Sheets
+- 🧠 Herramientas de IA generativa (OpenAI, Gemini, etc.)
+- ⚙️ Automatización de flujos con n8n
+- 🐍 Python & Java para desarrollo eficiente
 
 ---
 
