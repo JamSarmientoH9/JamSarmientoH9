@@ -13,9 +13,7 @@ Programo principalmente en:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin-right: 10px;" />
 </p>
 
 ---
@@ -26,10 +24,10 @@ Programo principalmente en:
 - ⚙️ Control automático y sistemas embebidos
 - 🛠️ Automatización industrial y robótica
 - 📊 Análisis de datos con Python, R, Pandas, NumPy, Google Sheets
-- 🌐 Backend con FastAPI y MATLAB para simulaciones técnicas
+- 🌐 Backend con Go y FastAPI
 - 🧠 Herramientas de IA generativa (OpenAI, Gemini, etc.)
 - ⚙️ Automatización
-- 🐍 Python & Java con spring/hibernate para desarrollo eficiente
+- 🐍 Python & Go para desarrollo eficiente
 
 ---
 
@@ -45,7 +43,6 @@ Conéctate conmigo en mis otras plataformas:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@JamSwiftDev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Jamkeatesissmith12@gmail.com)
 
----
 
 ## 📫 Unete a mi comunidad
 
