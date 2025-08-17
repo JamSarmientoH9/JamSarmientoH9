@@ -37,9 +37,10 @@ Soy una persona apasionada por la integración de hardware y software para crear
 
 ---
 
-## 🌐 Redes Sociales
+## 🌐 Contacto
 
-Conéctate conmigo en mis otras plataformas:
+💌 **¿Quieres contactarme?**  
+Aquí tienes mis perfiles personales para que podamos conectar, compartir ideas o colaborar en proyectos relacionados con tecnología y educación:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/" target="_blank">
