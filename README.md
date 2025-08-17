@@ -20,14 +20,14 @@ Programo principalmente en:
 
 ## 🔧 Tecnologías y Herramientas
 
-- 🤖 Inteligencia Artificial y Machine Learning
-- ⚙️ Control automático y sistemas embebidos
-- 🛠️ Automatización industrial y robótica
-- 📊 Análisis de datos con Python, R, Pandas, NumPy, Google Sheets
-- 🌐 Backend con Go y FastAPI
-- 🧠 Herramientas de IA generativa (OpenAI, Gemini, etc.)
-- ⚙️ Automatización
-- 🐍 Python & Go para desarrollo eficiente
+- 🤖 Inteligencia Artificial y Machine Learning  
+- ⚙️ Control automático y sistemas embebidos  
+- 🛠️ Automatización industrial y robótica  
+- 📊 Análisis de datos con Python, R, Pandas, NumPy, Google Sheets  
+- 🌐 Backend con Go y FastAPI  
+- 🧠 Herramientas de IA generativa (OpenAI, Gemini, etc.)  
+- ⚙️ Automatización  
+- 🐍 Python & Go para desarrollo eficiente  
 
 ---
 
@@ -41,10 +41,21 @@ Soy una persona apasionada por la integración de hardware y software para crear
 
 Conéctate conmigo en mis otras plataformas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@JamSwiftDev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Jamkeatesissmith12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@JamSwiftDev) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Jamkeatesissmith12@gmail.com)
 
+---
 
-## 📫 Unete a mi comunidad
+## 💼 Portafolio Web  
+
+Aquí puedes ver mis proyectos y trabajos:  
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Visita%20mi%20Portafolio-blue?style=for-the-badge)](https://jamswiftdev.netlify.app/)
+
+---
+
+## 📫 Únete a mi comunidad
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/kdUDTkYTAv)
 
